@@ -13,9 +13,9 @@ html {
 .header {
   width: 100%;
   height: var(--height);
-  background-color: #000;
   margin: 0;
   padding: 0;
+  background-color: #000;
 }
 
 ul {
